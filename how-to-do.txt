@@ -1,0 +1,11 @@
+server---->
+npm init -y
+npm i express pg pg-hstore sequelize cors dotenv
+npm i -D nodemon
+npm run dev //to start 
+https://app.diagrams.net/  //to create diagrams
+pgAdmin
+npm i express-fileupload
+npm i uuid
+npm i jsonwebtoken bcrypt
+jwt.io //decoding etokens
